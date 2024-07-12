@@ -8,3 +8,9 @@
 - [DevOps Roadmap by Saiyam Pathak](https://www.youtube.com/watch?v=4yRAeXAAHtM&ab_channel=KubesimplifyHindi)
 - [Tech World With Nana](https://www.youtube.com/@TechWorldwithNana)
 - [Check Out Comment Section for more resources](https://x.com/himanshuchhatw2/status/1750073123305918730)
+
+## Linux
+
+<img align="right" src="https://github.com/user-attachments/assets/bcd555be-095b-4941-8c3a-144199612a6f" height="100" alt="Roadmap"> 
+
+- [Notes + Learning Resources](Linux/README.md)
